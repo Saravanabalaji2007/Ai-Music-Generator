@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data files (optional - remove if you want to track these)
+*.csv
+*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.mid
+*.wav
+*.mp3
+
+# Model files - tracked by Git LFS (commented out as we use .gitattributes)
+# *.keras
+# *.h5
+# *.npy
+# *.pkl
