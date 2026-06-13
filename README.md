@@ -39,15 +39,15 @@ python music_gui.py
 
 Or use the Jupyter notebooks for training and generation.
 
-## Note
-
-
 ## Output Images ##
 
-https://github.com/Saravanabalaji2007/Ai-Music-Generator/blob/fe9d9f51806a215715f78d5b0fadc5ccc063600d/ai%20music%20pic1.jpeg
+<img width="1599" height="899" alt="ai music pic1 (1)" src="https://github.com/user-attachments/assets/b6462055-a94f-4789-b975-d3750b799f31" />
 
-https://github.com/Saravanabalaji2007/Ai-Music-Generator/blob/fe9d9f51806a215715f78d5b0fadc5ccc063600d/ai%20music%20pic2.jpeg
 
+<img width="1599" height="899" alt="ai music pic2" src="https://github.com/user-attachments/assets/0f3019bb-f594-475f-8d94-f9050f555585" />
+
+
+## Note
 
 
 Large files (*.npy, *.h5, *.keras) are tracked with Git LFS for version control.
