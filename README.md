@@ -41,4 +41,13 @@ Or use the Jupyter notebooks for training and generation.
 
 ## Note
 
+
+## Output Images ##
+
+https://github.com/Saravanabalaji2007/Ai-Music-Generator/blob/fe9d9f51806a215715f78d5b0fadc5ccc063600d/ai%20music%20pic1.jpeg
+
+https://github.com/Saravanabalaji2007/Ai-Music-Generator/blob/fe9d9f51806a215715f78d5b0fadc5ccc063600d/ai%20music%20pic2.jpeg
+
+
+
 Large files (*.npy, *.h5, *.keras) are tracked with Git LFS for version control.
